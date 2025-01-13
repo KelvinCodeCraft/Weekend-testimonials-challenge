@@ -144,3 +144,31 @@
    padding: 5px;
 }
 
+@media screen and (max-width: 600px){
+   .container{
+      display: flex;
+      flex-direction: column;
+      padding: 0%;
+   }
+   .danielClifford{
+      height: 400px;
+      width: auto;
+   }
+   .JonathanWalters{
+      width: auto;
+      height: auto;
+   }
+   .JeanetteHarmon{
+      width: auto;
+      height: auto;
+   }
+   .PatrickAbrams{
+      width: auto;
+      height: auto;
+   }
+   .KiraWhittle{
+      width: auto;
+      height: auto;
+   }
+
+}
